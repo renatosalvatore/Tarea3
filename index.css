@@ -1,4 +1,8 @@
-*{
+.ph-card-header {
+    color: white !important;
+    background-color: rgb(43, 84, 221) !important;
+}
+{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
